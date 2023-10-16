@@ -30,6 +30,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 .DS_store
+.DS_store*
+.DS_store/
 *.DS_store
 MANIFEST
 
@@ -148,3 +150,4 @@ cython_debug/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.ipynb_checkpoints/
